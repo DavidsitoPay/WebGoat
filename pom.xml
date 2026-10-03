@@ -113,6 +113,7 @@
     <zxcvbn.version>1.9.0</zxcvbn.version>
 
     <sonar.organization>davidsitopay</sonar.organization>
+      
   </properties>
 
   <dependencyManagement>
